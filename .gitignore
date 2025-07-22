@@ -1,0 +1,11 @@
+*.pdf
+*.zip
+*.pkl
+*.ann
+*.txt
+src/checkpoints/*
+src/logs/*
+__MACOSX
+.stats_cache
+.DS_Store
+*.conf
